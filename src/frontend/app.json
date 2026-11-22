@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "StudySpace Skeleton",
+    "slug": "studyspace-skeleton",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
